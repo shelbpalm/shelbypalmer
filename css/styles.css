@@ -1,8 +1,21 @@
 body {
+  /* default color */
   background: DarkSeaGreen;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   text-align: center;
 }
 img {
   width: 200px;
+}
+
+.bg0 {
+  background: azure;
+}
+
+.bg1 {
+  background: aliceblue;
+}
+
+.bg2 {
+  background: lightpink;
 }
