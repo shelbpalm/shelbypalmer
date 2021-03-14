@@ -1,23 +1,14 @@
+/*fonts */
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap");
 body {
   /* default color */
   background: DarkSeaGreen;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
 }
 img {
   width: 200px;
-}
-
-.bg0 {
-  background: azure;
-}
-
-.bg1 {
-  background: aliceblue;
-}
-
-.bg2 {
-  background: lightpink;
 }
 
 /* LightGallery Position Correction */
