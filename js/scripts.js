@@ -18,5 +18,5 @@ console.log("OK");
 const gallery = document.getElementById("gallery");
 
 lightGallery(gallery, {
-  //options
+  download: false
 });
