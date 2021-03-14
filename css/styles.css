@@ -21,6 +21,8 @@ body {
   background: #e2f6f8;
   font-family: "Montserrat", sans-serif;
   text-align: center;
+  width: 900px;
+  margin: 0 auto;
 }
 img {
   width: 200px;
