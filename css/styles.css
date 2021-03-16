@@ -5,6 +5,7 @@
 /*header grid*/
 .head {
   background-color: #fcdfab;
+  border-radius: 5px;
 }
 .selfie {
   display: flex;
@@ -29,7 +30,18 @@ img {
   border-radius: 5px;
 }
 figure {
-  background: #fffdfa;
+  background: #fff;
+  border-radius: 5px;
+  padding: 10px;
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+}
+
+#gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 h1 {
@@ -48,6 +60,7 @@ h2 {
 
 .contact {
   background-color: #73d2de;
+  border-radius: 5px;
   padding: 10px 0px 10px 0px;
 }
 
